@@ -6,8 +6,10 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
+As stated above, the main purpose is to provide simple example for Git trainign demos.
+
 ## Deployment
 
-Sample website with plenty of files for demos
+This is a simple web project, deployment can be on any web server or even lcoal file system.
 
 ## How to Contribute
