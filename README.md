@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-This is a learing app.
+This is a learing app. It is for learning.
 
 ## Purpose
 
