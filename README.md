@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
+This is a learing app.
+
 ## Purpose
 
 As stated above, the main purpose is to provide simple example for Git trainign demos.
